@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "async-gis-service", "async-gis-service\async-gis-service.csproj", "{4BFEC1A3-4CBF-4EF1-B3A8-93F6FC8B3DCE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncRircGisService", "AsyncRircGisService\AsyncRircGisService.csproj", "{45FCCAB8-07B6-4FB1-9ABC-940B686DB10D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncRircGisServiceTests", "AsyncRircGisServiceTests\AsyncRircGisServiceTests.csproj", "{1ECCD295-EA3F-441B-9550-BEF41D0DBA49}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{4BFEC1A3-4CBF-4EF1-B3A8-93F6FC8B3DCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4BFEC1A3-4CBF-4EF1-B3A8-93F6FC8B3DCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4BFEC1A3-4CBF-4EF1-B3A8-93F6FC8B3DCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4BFEC1A3-4CBF-4EF1-B3A8-93F6FC8B3DCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45FCCAB8-07B6-4FB1-9ABC-940B686DB10D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45FCCAB8-07B6-4FB1-9ABC-940B686DB10D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45FCCAB8-07B6-4FB1-9ABC-940B686DB10D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45FCCAB8-07B6-4FB1-9ABC-940B686DB10D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1ECCD295-EA3F-441B-9550-BEF41D0DBA49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ECCD295-EA3F-441B-9550-BEF41D0DBA49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ECCD295-EA3F-441B-9550-BEF41D0DBA49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ECCD295-EA3F-441B-9550-BEF41D0DBA49}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

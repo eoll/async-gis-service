@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DataPacks>
+  <DataPack TaskId="f" MethodId="1" ServiceId="1" MugkxId="1" DuId="16" LastStartDate="04.07.16 15:56:13,000000 +03:00" />
+  <DataPack TaskId="1" MethodId="f" ServiceId="1" MugkxId="1" DuId="16" LastStartDate="04.07.16 15:56:13,000000 +03:00" />
+  <DataPack TaskId="1" MethodId="1" ServiceId="f" MugkxId="1" DuId="16" LastStartDate="04.07.16 15:56:13,000000 +03:00" />
+  <DataPack TaskId="1" MethodId="1" ServiceId="1" MugkxId="f" DuId="16" LastStartDate="04.07.16 15:56:13,000000 +03:00" />
+  <DataPack TaskId="1" MethodId="1" ServiceId="1" MugkxId="1" DuId="f" LastStartDate="04.07.16 15:56:13,000000 +03:00" />
+  <DataPack TaskId="1" MethodId="1" ServiceId="1" MugkxId="1" DuId="16" LastStartDate="fff" />
+</DataPacks>
